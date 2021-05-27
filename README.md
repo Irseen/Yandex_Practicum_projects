@@ -1,3 +1,11 @@
+### Hi there, I am Irina - Data scientist
+
+- I'm currently working with python
+- I'm currently learning everthing
+- Fun fact: I love to play piano
+
+
+
 Repository conteins  projects during study in YandexPraktikum, course is Data Science.
 
 ### Projects:
