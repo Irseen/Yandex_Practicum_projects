@@ -11,6 +11,10 @@ Library used:
 - Catboost
 - Keras
 
+
+As a result, we got a model that, with an accuracy of 91%, can predict whether a client will leave or stay. 
+And also described the most "dangerous" group of clients
+
 2. Auto service online: User should quickly find out the market value of car.
 
 Library used:
