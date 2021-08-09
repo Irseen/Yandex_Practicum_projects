@@ -1,3 +1,11 @@
+### Hi there, I am Irina - Data scientist
+
+- I'm currently working with python
+- I'm currently learning everthing
+- Fun fact: I love to play piano
+
+
+
 Repository conteins  projects during study in YandexPraktikum, course is Data Science.
 
 ### Projects:
@@ -10,6 +18,10 @@ Library used:
 - Matplotlib
 - Catboost
 - Keras
+
+
+As a result, we got a model that, with an accuracy of 91%, can predict whether a client will leave or stay. 
+And also described the most "dangerous" group of clients
 
 2. Auto service online: User should quickly find out the market value of car.
 
